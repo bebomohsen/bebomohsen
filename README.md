@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Abd Elmohsen 
 - 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently Flutter Develoepr 
 - 📫 How to reach me
   ahmedmohsendiab@yahoo.com
 - 📋 The link to my resume 
